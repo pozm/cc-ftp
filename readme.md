@@ -1,4 +1,4 @@
-# cc-ftp
+# cc-sync
 allows you to sync files to a hosting server, and then edit them on that server.
 
 ## setup
